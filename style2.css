@@ -8,6 +8,7 @@ table {
     border: 1px solid #09687a;
     text-align: left;
     padding: 8px;
+    color: blue;
   }
   
   tr:nth-child(even) {
@@ -20,7 +21,7 @@ table {
     width: 200px;
   }
   a{
-    color: aliceblue;
+    color: blue;
   }
   span{
     color: #09687a;
